@@ -1,5 +1,5 @@
 # Hello World👋, Delia's this way.
-![](https://github.com/de-lia/deliaayoko/commit/2fad75348be247f3bde473b648a37c47f4f6f82b)
+![](https://github.com/de-lia/deliaayoko/blob/main/a2dc9668f2cf170fe3efeb263128b0e7.gif)
 
 Still an kindergartner, trying to develop tech skills, so please go easy on me😪. I do only dumb shit and I'm not smart, I just wear lenses to cover these ugly eye bags.
 
