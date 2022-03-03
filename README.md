@@ -5,7 +5,7 @@ And baby, let me tell you:
 
 > The Key to a successful relationship is to clear your Internet History.
 
-Yeah, yeah. I stole the quote though.
+Yeah, yeah. I stole the quote too.
 
 ## Anyways, here's about me:
 * 💻 I'm mid-way with responsive web design, sneaking into machine learning without getting caught, and admiring UI/UX from a distance. I know I'll be a darling at every of these.😁
