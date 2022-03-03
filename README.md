@@ -1,6 +1,6 @@
 # <p align="center"> Hello World👋, Delia's this way.😊</p>
 <p align="center">
-  <img src="https://github.com/de-lia/de-lia/blob/main/Hello_To_You.gif" alt="hello animated">
+  <img src="https://github.com/de-lia/de-lia/blob/main/Hello_To_You.gif" alt="hello animated" style="width:350px;">
  </p>
   
    
