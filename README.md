@@ -31,4 +31,4 @@ That's all the lame stuff I can do for now.
 ## Fun Fact
 The Firefox logo isn't a fox… it's a red panda!😄
 
-  PS: I stole this one too.
+ #### PS: I stole this.
