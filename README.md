@@ -6,12 +6,6 @@
    
 Still an kindergartner, trying to develop tech skills, and this is my first readme ever, so please go easy on me😪. I do only dumb shit and I'm not smart, I just wear lenses to cover these very ugly eye bags.
 
-And baby, let me tell you:
-
-> The key to a successful relationship is to clear your Internet History.
-
-Yeah, yeah. I stole the quote.
-
 ## Anyways, here's about me:
 * 💻 I'm mid-way with responsive web design, sneaking into machine learning without getting caught, and admiring UI/UX from a distance. I know I'll be a darling at every of these.😁
 *********************
