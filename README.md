@@ -1,6 +1,9 @@
 # Hello World👋, Delia's this way.
-![](https://github.com/de-lia/deliaayoko/blob/main/a2dc9668f2cf170fe3efeb263128b0e7.gif)
-
+<p align="center">
+  <img src="https://github.com/de-lia/de-lia/blob/main/Hello_To_You.gif" alt="hello animated">
+ </p>
+  
+   
 Still an kindergartner, trying to develop tech skills, and this is my first readme ever, so please go easy on me😪. I do only dumb shit and I'm not smart, I just wear lenses to cover these very ugly eye bags.
 
 And baby, let me tell you:
