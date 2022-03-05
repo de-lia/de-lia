@@ -11,9 +11,9 @@ Still an kindergartner, trying to develop tech skills, and this is my first read
 *********************
 * ꟺ I'm a Wattpad author. Still upcoming tho.
 *********************
-* I'm such a genuine amateur that I'm big on copying an pasting from Stack Overflow.
+* I'm such a genuine amateur that I'm big on copying and pasting code from Stack Overflow.
 **************
-* I love being home all day, and what makes me most happy is checking everything on my to-do lists.
+* I love being home all day, and what makes me most happy is doing interesting stuff that I've never done in my whole life.
 *********************
 * ♪ And I love my Alan Walker playlist.💆
 ***************
