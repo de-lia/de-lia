@@ -18,8 +18,9 @@ Still an kindergartner, trying to develop tech skills, and this is my first read
 * ♪ And I love my Alan Walker playlist.💆
 ***************
 
-## Mind if we connect, maybe some other time?💁
-Here's my [Twitter](https://twitter.com/delia_ayoko), and my [LinkedIn](https://www.linkedin.com/in/delia-ayoko-725469226/) too.
+## Let's connect!
+<p align="left">
+<a href="https://dev.to/delia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deliaayoko" height="30" width="40" /></a>
 **************************
 ## Spider Skills:
 * C/C++
