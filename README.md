@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Java, and sleeping early.**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/de-lia](https://codepen.io/de-lia) 
+- 👨‍💻 All of my projects are available at [My CodePen](https://codepen.io/de-lia) 
 
 - 📝 I regularly write articles on [Tealfeed](https://tealfeed.com/), [DEV](https://dev.to/delia),  [CodeNewbie](https://community.codenewbie.org/delia) and [Medium](https://medium.com/@d3liaayoko)
 
@@ -37,7 +37,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-lia" alt="de-lia" /></a> </p>
 
 <h3 align="left">My Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=de-lia&show_icons=true&locale=en&layout=compact" alt="de-lia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=de-lia&show_icons=true&locale=en&layout=compact" alt="de-lia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=de-lia&show_icons=true&locale=en" alt="de-lia" /></p>
 
