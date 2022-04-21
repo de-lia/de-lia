@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/de-lia](https://codepen.io/de-lia) 
 
-- 📝 I regularly write articles on [https://tealfeed.com/](https://tealfeed.com/) [https://dev.to/delia](https://dev.to/delia)  [https://community.codenewbie.org/delia](https://community.codenewbie.org/delia) [https://medium.com/@d3liaayoko](https://medium.com/@d3liaayoko)
+- 📝 I regularly write articles on [Tealfeed](https://tealfeed.com/), [DEV](https://dev.to/delia),  [https://community.codenewbie.org/delia](https://community.codenewbie.org/delia) and [https://medium.com/@d3liaayoko](https://medium.com/@d3liaayoko)/
 
 - 💬 Ask me about **responsive web design and content writing.**
 
