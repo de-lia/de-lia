@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/de-lia](https://codepen.io/de-lia) 
 
-- 📝 I regularly write articles on [https://tealfeed.com/](https://tealfeed.com/) [https://dev.to/delia]  [https://community.codenewbie.org/delia] [https://medium.com/@d3liaayoko] https://dev.to/delia https://community.codenewbie.org/delia https://medium.com/@d3liaayoko)
+- 📝 I regularly write articles on [https://tealfeed.com/](https://tealfeed.com/) [https://dev.to/delia](https://dev.to/delia)  [https://community.codenewbie.org/delia](https://community.codenewbie.org/delia) [https://medium.com/@d3liaayoko](https://medium.com/@d3liaayoko)
 
 - 💬 Ask me about **responsive web design and content writing.**
 
-- 📫 How to reach me **d3liaayoko@gmail.com**
+- 📫 How to reach me: **d3liaayoko@gmail.com**
 
-- ⚡ Fun fact **Pigs can't look up into the sky.**
+- ⚡ Fun fact: **Pigs can't look up into the sky.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
