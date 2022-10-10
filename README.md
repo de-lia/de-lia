@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Delia Ayoko</h1>
 <h3 align="center">An ardent frontend developer from Cameroon.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=de-lia&label=Profile%20views&color=0e75b6&style=flat" alt="de-lia" /> </p>
-
 - 🔭 I’m currently working on **building a good tech stack and a portfolio**
 
 - 🌱 I’m currently learning **Javascript**
