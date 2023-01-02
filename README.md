@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Delia Ayoko</h1>
-<h3 align="center">An ardent frontend developer from Cameroon.</h3>
+<h1 align="center">Hi there 👋, I'm Delia Ayoko</h1>
+<h3 align="center">and I'm a Computer Science Student!</h3>
 
-- 🔭 I’m currently working on **building a good tech stack and a portfolio**
+- 🔭 I study Computer Science and I'm in my second year in college.
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I learn **cloud technologies with AWS** and I've been an AWS Community Builder since March 4 2022.
 
-- 🤝 I’m looking for help with **Java, and sleeping early.**
+- 🤝 Looking for **machine learning folks** to be friends with.
 
-- 👨‍💻 All of my projects are available at [My CodePen](https://codepen.io/de-lia) 
+- 👨‍💻 Let's also talk about numbers in **data science!**
 
-- 📝 I regularly write articles on [Tealfeed](https://tealfeed.com/d3lia), [DEV](https://dev.to/delia),  [CodeNewbie](https://community.codenewbie.org/delia) and [Medium](https://medium.com/@d3liaayoko)
+- 📝 Sometimes, I write articles on [Tealfeed](https://tealfeed.com/d3lia), [DEV](https://dev.to/delia),  [CodeNewbie](https://community.codenewbie.org/delia) and [Medium](https://medium.com/@d3liaayoko)
 
-- 💬 Ask me about **responsive web design and content writing.**
+- 🐩 I share computer science memes when I feel frustrated.
 
-- 📫 How to reach me: **d3liaayoko@gmail.com**
+- 🗻 In my spare time, I love reading and watching science fiction or anything science-related. 
 
-- ⚡ Fun fact: **Pigs can't look up into the sky.**
+- 💬 Let's talk using my email address, **d3liaayoko@gmail.com**
+
+- ⚡ _Time is an illusion that shifts relative to the observer._
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
