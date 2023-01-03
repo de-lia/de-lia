@@ -3,13 +3,15 @@
 
 - 🔭 I study Computer Science and I'm in my second year in college.
 
-- 🌱 I learn **cloud technologies with AWS** and I've been an AWS Community Builder since March 4 2022.
+- 🌱 I learn **cloud technologies with AWS.**
 
 - 🤝 Looking for **machine learning folks** to be friends with.
 
 - 👨‍💻 Let's also talk about numbers in **data science!**
 
-- 📝 Sometimes, I write articles on [Tealfeed](https://tealfeed.com/d3lia), [DEV](https://dev.to/delia),  [CodeNewbie](https://community.codenewbie.org/delia) and [Medium](https://medium.com/@d3liaayoko)
+- 📝 Sometimes, I write articles on [Tealfeed](https://tealfeed.com/d3lia), [DEV](https://dev.to/delia),  [CodeNewbie](https://community.codenewbie.org/delia) and [Medium](https://medium.com/@d3liaayoko) and even scripts!
+
+- At other times, I create content on Instagram.
 
 - 🐩 I share computer science memes when I feel frustrated.
 
