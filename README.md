@@ -11,7 +11,7 @@
 
 - 📝 Sometimes, I write articles on [Tealfeed](https://tealfeed.com/d3lia), [DEV](https://dev.to/delia),  [CodeNewbie](https://community.codenewbie.org/delia) and [Medium](https://medium.com/@d3liaayoko) and even scripts!
 
-- At other times, I create content on Instagram.
+- At other times, I create content on [Instagram](https://instagram.com/delia.coder/).
 
 - 🐩 I share computer science memes when I feel frustrated.
 
